@@ -101,7 +101,6 @@
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/ALCX.png' width='32' height='32' alt='ALCX'/>     | ALCX     | Alchemix |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/BVND.png' width='32' height='32' alt='BVND'/>     | BVND     | BVND |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/GRT.png' width='32' height='32' alt='GRT'/>     | GRT     | The Graph |
- | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/MAPS.png' width='32' height='32' alt='MAPS'/>     | MAPS     | MAPS |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/CELO.png' width='32' height='32' alt='CELO'/>     | CELO     | Celo |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/MC.png' width='32' height='32' alt='MC'/>     | MC     | Merit Circle |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/ANY.png' width='32' height='32' alt='ANY'/>     | ANY     | Anyswap |
@@ -182,7 +181,6 @@
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/OMOLD.png' width='32' height='32' alt='OMOLD'/>     | OMOLD     | Old MANTRA DAO |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/BIFI.png' width='32' height='32' alt='BIFI'/>     | BIFI     | Beefy.Finance |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/WETH.png' width='32' height='32' alt='WETH'/>     | WETH     | Wrapped Ether |
- | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/PGALA.png' width='32' height='32' alt='PGALA'/>     | PGALA     | Old pNetwork Gala |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/LINA.png' width='32' height='32' alt='LINA'/>     | LINA     | Linear |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/LIF3.png' width='32' height='32' alt='LIF3'/>     | LIF3     | LIF3 |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/PERP.png' width='32' height='32' alt='PERP'/>     | PERP     | Perpetual Protocol |
@@ -227,7 +225,6 @@
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/TOMB.png' width='32' height='32' alt='TOMB'/>     | TOMB     | Tomb |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/GNS.png' width='32' height='32' alt='GNS'/>     | GNS     | Gains Network |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/SYN.png' width='32' height='32' alt='SYN'/>     | SYN     | Synapse |
- | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/DEGOOLD.png' width='32' height='32' alt='DEGOOLD'/>     | DEGOOLD     | Old Dego Finance Token |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/TRXOLD.png' width='32' height='32' alt='TRXOLD'/>     | TRXOLD     | Old BEP20 Tron |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/STGOLD.png' width='32' height='32' alt='STGOLD'/>     | STGOLD     | Old Stargate Finance |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/LQTY.png' width='32' height='32' alt='LQTY'/>     | LQTY     | Liquity |
@@ -272,7 +269,6 @@
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/NFT.png' width='32' height='32' alt='NFT'/>     | NFT     | APENFT |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/EPX.png' width='32' height='32' alt='EPX'/>     | EPX     | Ellipsis |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/FDUSD.png' width='32' height='32' alt='FDUSD'/>     | FDUSD     | First Digital USD |
- | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/TBCC.png' width='32' height='32' alt='TBCC'/>     | TBCC     | TBCC |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/LDO.png' width='32' height='32' alt='LDO'/>     | LDO     | Lido DAO |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/PENDLE.png' width='32' height='32' alt='PENDLE'/>     | PENDLE     | Pendle |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/GTC.png' width='32' height='32' alt='GTC'/>     | GTC     | Gitcoin |
@@ -577,7 +573,6 @@
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/BIDR.png' width='32' height='32' alt='BIDR'/>     | BIDR     | BIDR |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/PKR.png' width='32' height='32' alt='PKR'/>     | PKR     | Pakistani Rupee |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/KNCL.png' width='32' height='32' alt='KNCL'/>     | KNCL     | Kyber Network Crystal Legacy |
- | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/ETF.png' width='32' height='32' alt='ETF'/>     | ETF     | ETF |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/STMX.png' width='32' height='32' alt='STMX'/>     | STMX     | StormX |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/MDT.png' width='32' height='32' alt='MDT'/>     | MDT     | Measurable Data Token |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/PNT.png' width='32' height='32' alt='PNT'/>     | PNT     | pNetwork |
@@ -734,5 +729,3 @@
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/APPC.png' width='32' height='32' alt='APPC'/>     | APPC     | AppCoins |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/PIVX.png' width='32' height='32' alt='PIVX'/>     | PIVX     | PIVX |
  | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/BNC.png' width='32' height='32' alt='BNC'/>     | BNC     | Bifrost |
- | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/123.png' width='32' height='32' alt='123'/>     | 123     | 123 |
- | <img src='https://raw.githubusercontent.com/coinpays-io/binance-token-assets/main/tokens/456.png' width='32' height='32' alt='456'/>     | 456     | 456 |
